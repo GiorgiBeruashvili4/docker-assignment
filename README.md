@@ -61,7 +61,7 @@ curl -I https://example.com
 **აღწერა:** `apt update` განაახლებს პაკეტების სიებს, `apt install -y curl` კი დააინსტალირებს curl-ს. `curl -I` ითხოვს მხოლოდ `https://example.com`-ის HTTP ჰედერებს. პასუხი `HTTP/2 200` ადასტურებს, რომ კონტეინერს აქვს ინტერნეტთან წვდომა.
 
 ![curl-ის ინსტალაცია](screenshots/install-curl.png)
-![ინტერნეტთან წვდომის შემოწმება](screenshots/check-internet-access.png.png)
+![ინტერნეტთან წვდომის შემოწმება](screenshots/check-internet-access.png)
 
 ---
 
