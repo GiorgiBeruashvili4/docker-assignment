@@ -119,7 +119,7 @@ cd docker-assignment
 **`app.py`-ის შიგთავსი:**
 
 ```python
-print("Hello from my custom Docker container!")
+print("Hello from Docker container!")
 print("Docker assignment: Python app is running successfully.")
 ```
 
